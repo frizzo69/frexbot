@@ -2,6 +2,8 @@
 
 ## HEAVILY UNDER DEVELOPMENT 
 
+Configure json files according to your needs (all json value can be edited using commands, just find them yourself, im lazy)
+
 ## Hosting the bot
 use release v1 if you want to host on replit 
 fork the repo if you want to run on railway (just slightly different) 
